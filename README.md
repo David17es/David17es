@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 Currently developing in Python and Java<br>🎯 Goals: Learn HTML and perhaps JavaScript</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 Currently developing in Python and Java<br>🎯 Goals: Create my first web (after learning HTML)</p>
 
 ###
 
