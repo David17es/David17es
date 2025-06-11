@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">David, from Spain. I'm currently studying a Computer Engineering degree.</p>
+<p align="left">David, from Spain. I'm currently studying a Computer Engineering degree in University of Alcalá(UAH).</p>
 
 ###
 
