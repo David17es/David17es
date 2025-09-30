@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 Learning about web development<br>🎯 Goals: Create my first web (after learning HTML and CSS)</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 Learning about data structures, SQL and operative systems<br>🎯 Goals: ...</p>
 
 ###
 
@@ -30,6 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/c++-original.svg" height="40" alt="c++ logo"  />
+  <img width="12" />
 </div>
 
 ###
