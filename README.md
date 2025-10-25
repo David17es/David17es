@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">David, from Spain. Currently studying  Computer Engineering | University of Alcala.</p>
+<p align="left"> I'm David, from Spain.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 Learning about data structures with C++, data bases with PostgreSQL and network architecture with Wireshark.<br>🎯 Goals: ...</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 Currently studying  Computer Engineering | University of Alcala.<br>🎯 Goals: ...</p>
 
 ###
 
