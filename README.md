@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 Currently studying  Computer Engineering | University of Alcala.<br>🎯 Goals: ...</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 Currently studying  Computer Engineering | Universidad de Alcalá (UAH).<br>🎯 Goals: ...</p>
 
 ###
 
